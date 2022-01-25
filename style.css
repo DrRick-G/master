@@ -1,0 +1,98 @@
+
+img{
+    height:500px;
+}
+.card1{
+    width:400px;
+    height:200px;
+    font-family:Arial;
+    text-align:center;
+    align-items:center;
+    color:white;
+    font-size: 100px;
+    font-weight: bold;
+    
+}
+
+.grille{
+    width:400px;
+    height:200px;
+    font-family:Arial;
+    text-align:center;
+    align-items:center;
+    color:white;
+    font-size: 100px;
+    font-weight: bold;
+    
+}
+
+#bleu{
+    background-color: royalblue;
+}
+#vert{
+    background-color:greenyellow;
+}
+#rouge{
+    background-color: red;
+}
+#noir{
+    background-color: black;
+}
+
+#gris{
+    background-color:grey;
+}
+
+#jaune{
+    background-color:yellow;
+}
+
+#violet{
+    background-color:violet;
+}
+
+#jaune{
+    background-color: orange;
+}
+
+
+.autoplay{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:lemonchiffon;
+}
+
+.center{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:lemonchiffon;
+}
+
+.fa-chevron-circle-left, .fa-chevron-circle-right{
+    color:burlywood;
+}
+
+.slick-prev, .slick-next{
+    border:none;
+}
+
+.carousel{
+    margin-bottom: 50px;
+}
+
+.defile{
+    display:flex;
+    flex-direction:row;
+}
+
+.transparent{
+    height:150px;
+    width:100%;
+    background-color: rbga(255,255,255,0.8);
+}
+
+.case{
+    padding:10px;
+}
